@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fe-riddle-online-status/build/static/css/main.c3f77910.chunk.css",
+    "main.js": "/fe-riddle-online-status/build/static/js/main.db2629d8.chunk.js",
+    "main.js.map": "/fe-riddle-online-status/build/static/js/main.db2629d8.chunk.js.map",
+    "runtime-main.js": "/fe-riddle-online-status/build/static/js/runtime-main.b9af775b.js",
+    "runtime-main.js.map": "/fe-riddle-online-status/build/static/js/runtime-main.b9af775b.js.map",
+    "static/css/2.1fe15dcd.chunk.css": "/fe-riddle-online-status/build/static/css/2.1fe15dcd.chunk.css",
+    "static/js/2.bd2c1c33.chunk.js": "/fe-riddle-online-status/build/static/js/2.bd2c1c33.chunk.js",
+    "static/js/2.bd2c1c33.chunk.js.map": "/fe-riddle-online-status/build/static/js/2.bd2c1c33.chunk.js.map",
+    "index.html": "/fe-riddle-online-status/build/index.html",
+    "precache-manifest.846c928f5d71a47d3b68ba51f299f12d.js": "/fe-riddle-online-status/build/precache-manifest.846c928f5d71a47d3b68ba51f299f12d.js",
+    "service-worker.js": "/fe-riddle-online-status/build/service-worker.js",
+    "static/css/2.1fe15dcd.chunk.css.map": "/fe-riddle-online-status/build/static/css/2.1fe15dcd.chunk.css.map",
+    "static/css/main.c3f77910.chunk.css.map": "/fe-riddle-online-status/build/static/css/main.c3f77910.chunk.css.map",
+    "static/js/2.bd2c1c33.chunk.js.LICENSE": "/fe-riddle-online-status/build/static/js/2.bd2c1c33.chunk.js.LICENSE",
+    "static/media/notifications.css": "/fe-riddle-online-status/build/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9af775b.js",
+    "static/css/2.1fe15dcd.chunk.css",
+    "static/js/2.bd2c1c33.chunk.js",
+    "static/css/main.c3f77910.chunk.css",
+    "static/js/main.db2629d8.chunk.js"
+  ]
+}
